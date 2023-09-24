@@ -1,0 +1,137 @@
+#welcome{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2nJbWkXxwNLFyvhaeVe6YSQENQcWnIbdvgw&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+          height:100%;
+          text-align:center;
+}
+
+
+         body{
+    font-size: 60px;
+    color: rgb(226, 230, 22);
+}
+
+
+        h1{ font: size 60px; 
+        color: deepskyblue
+}
+
+
+        div{
+            font-size: 38px;
+            color: black;
+        }
+
+
+        .intro{
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7nbVgC1UGeKCd-zjKOnmUeCjiOGa_s0GPg&usqp=CAU");
+            background-position: top;
+            background-size: cover;
+            width: 100%;
+                  height:100%;
+                  text-align:center;
+        }
+
+
+        .Hobby{
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQal_Nt4ye3Y7e3lYAqZcRbL2JqLr0UlLcoSQ&usqp=CAU");
+            background-position: center;
+            background-size: cover;
+            width: 100%;
+                  height:100%;
+                  text-align:center;
+        }
+
+        h3{ font: size 60px; 
+            color: rgb(239, 7, 247)
+
+        }
+         
+
+        h2{ font: size 60px; 
+            color: rgb(0, 0, 0)
+
+        }
+
+
+        .School-content{
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2DIPfphdpoUxXU3u7M4Sm0Q95dgcDW6rNPA&usqp=CAU");
+            background-position: center;
+            background-size: cover;
+            font-style: italic;
+            color: rgb(248, 244, 239);
+        }
+
+        
+         .subject-section{
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCjzuea1fmJoniaBxYkJMv03BwfrX-psKu0A&usqp=CAU");
+            background-position: center;
+            background-size: cover;
+            
+        }
+
+
+        .subject{
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaCRTK904Cav-miWjey_edS2mEeYiIf9bYxg&usqp=CAU");
+            background-position: center;
+            background-size: cover;
+        }
+
+
+        .subject-English{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            border-color: red;
+            color: yellow;
+            padding-top: 10px;
+        }
+
+
+        .subject-computer{
+            border-style: double;
+            border-color: blue;
+            color: green ;
+        }
+
+
+        .subject-history{
+            border-style: double;
+            border-color: green;
+            color: blue;
+        }
+
+
+        .subject-science{
+            border-style: double;
+            border-color: yellow;
+            color: red;
+        }
+
+
+        .family{
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjLGQ5y7JZ54Hwzdc-NApEKSuwq9FhwNOTUw&usqp=CAU");
+            background-position: center;
+            background-size: cover;
+            width: 100%;
+                  height:100%;
+                  text-align:center;
+        }
+ 
+        h4{ font: size 60px; 
+            color: rgb(51, 255, 0)
+            
+
+        }
+
+        .thank_you{
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kZ4LgtEDxQ6N0RPzQDXSe8Wh7V5KnO1yAg&usqp=CAU");
+            background-position: center;
+            background-size: cover;
+            width: 100%;
+                  height:100%;
+                  text-align:center;
+        }
+
+
+    
